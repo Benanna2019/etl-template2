@@ -1,0 +1,16 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/fetch": "^6.1.0",
+    "crocks": "^0.12.4",
+    "node-fetch": "^2.6.1",
+    "ramda": "^0.27.1"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "tape": "^5.1.1"
+  }
+}
